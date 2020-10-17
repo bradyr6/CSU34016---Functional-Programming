@@ -3,9 +3,9 @@ import Data.Char (toUpper)
 import Data.List (group)
 
 name, idno, username :: String
-name      =  "Rachel Brady"  -- replace with your name
-idno      =  "18322843"    -- replace with your student id
-username  =  "bradyr6"   -- replace with your TCD username
+name      =                  -- replace with your name
+idno      =                  -- replace with your student id
+username  =                  -- replace with your TCD username
 
 
 declaration -- do not modify this

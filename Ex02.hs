@@ -2,10 +2,6 @@ module Ex02 where
 import Data.Maybe (fromJust)
 import Data.Either
 
-name, idno, username :: String
-name      =  "Rachel Brady"  -- replace with your name
-idno      =  "18322843"    -- replace with your student id
-username  =  "bradyr6"   -- replace with your TCD username
 
 
 declaration -- do not modify this

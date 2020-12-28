@@ -1,0 +1,39 @@
+\BOOKMARK [0][-]{chapter.1}{prfckh Application}{}% 1
+\BOOKMARK [0][-]{chapter.2}{prfchk Libraries}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Abstract Syntax Tree}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Simplified Haskell AST}{section.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.1.2}{Simplifying Strings}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.3}{Simplifying Literals}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.4}{Simplifying Parsed Expressions}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.5}{Simplifying Parsed Matches}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.6}{Simplifying Parsed Declarations}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.7}{Simplifying Parsed Modules}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.8}{Fixity Handling}{section.2.1}% 11
+\BOOKMARK [1][-]{section.2.2}{Matching}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.1}{Bindings}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.2}{Known Names}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.3}{Matching}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.4}{Building}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.5}{Stuff}{section.2.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Haskell Parser}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.3.1}{Monadic Failure}{section.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.3.2}{Parser Top-Level}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.3}{Parsing Expressions}{section.2.3}% 21
+\BOOKMARK [2][-]{subsection.2.3.4}{Parsing Equivalences}{section.2.3}% 22
+\BOOKMARK [1][-]{section.2.4}{Theory}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.4.1}{Theory Document Structure}{section.2.4}% 24
+\BOOKMARK [2][-]{subsection.2.4.2}{Datatypes}{section.2.4}% 25
+\BOOKMARK [2][-]{subsection.2.4.3}{Parser Top-Level}{section.2.4}% 26
+\BOOKMARK [2][-]{subsection.2.4.4}{Parse Laws}{section.2.4}% 27
+\BOOKMARK [2][-]{subsection.2.4.5}{Parse Induction Schemata}{section.2.4}% 28
+\BOOKMARK [2][-]{subsection.2.4.6}{Parse Theorems}{section.2.4}% 29
+\BOOKMARK [2][-]{subsection.2.4.7}{``One-Liner'' Parsing}{section.2.4}% 30
+\BOOKMARK [2][-]{subsection.2.4.8}{Chunk Parser}{section.2.4}% 31
+\BOOKMARK [2][-]{subsection.2.4.9}{Theorem Utilities}{section.2.4}% 32
+\BOOKMARK [1][-]{section.2.5}{Checking}{chapter.2}% 33
+\BOOKMARK [1][-]{section.Alph0.1}{Utilities}{chapter.2}% 34
+\BOOKMARK [2][-]{subsection.Alph0.1.1}{List and Set Functions}{section.Alph0.1}% 35
+\BOOKMARK [2][-]{subsection.Alph0.1.2}{Smart Readers}{section.Alph0.1}% 36
+\BOOKMARK [2][-]{subsection.Alph0.1.3}{Control-Flow Functions}{section.Alph0.1}% 37
+\BOOKMARK [2][-]{subsection.Alph0.1.4}{Pretty-printing Derived Show}{section.Alph0.1}% 38
+\BOOKMARK [2][-]{subsection.Alph0.1.5}{Possible Failure Monad}{section.Alph0.1}% 39

@@ -1,0 +1,73 @@
+\contentsline {chapter}{\numberline {1}prfckh Application}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}\textit {\textsf {prfchk}}\ Libraries}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Abstract Syntax Tree}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Simplified Haskell AST}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Simplifying Strings}{11}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Simplifying Literals}{12}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Simplifying Parsed Expressions}{12}{subsection.2.1.4}
+\contentsline {subsubsection}{Fixing Infix Parses}{13}{section*.2}
+\contentsline {paragraph}{Split}{14}{section*.3}
+\contentsline {paragraph}{Fuse}{14}{section*.4}
+\contentsline {paragraph}{Twist}{15}{section*.5}
+\contentsline {subsection}{\numberline {2.1.5}Simplifying Parsed Matches}{16}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Simplifying Parsed Declarations}{16}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Simplifying Parsed Modules}{16}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Fixity Handling}{17}{subsection.2.1.8}
+\contentsline {subsubsection}{Prelude Fixity Declarations}{17}{section*.6}
+\contentsline {section}{\numberline {2.2}Matching}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Bindings}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Known Names}{18}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Matching}{19}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Building}{19}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Stuff}{21}{subsection.2.2.5}
+\contentsline {section}{\numberline {2.3}Haskell Parser}{22}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Monadic Failure}{23}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Parser Top-Level}{23}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Parsing Expressions}{24}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Parsing Equivalences}{24}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}Theory}{25}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Theory Document Structure}{25}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Datatypes}{28}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Parser Top-Level}{31}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Parse Laws}{31}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Parse Induction Schemata}{32}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Parse Theorems}{33}{subsection.2.4.6}
+\contentsline {subsubsection}{Parse Strategies}{33}{section*.7}
+\contentsline {subsection}{\numberline {2.4.7}``One-Liner'' Parsing}{40}{subsection.2.4.7}
+\contentsline {subsubsection}{Speculative line-parses}{40}{section*.8}
+\contentsline {subsubsection}{Mandatory one-liners}{41}{section*.9}
+\contentsline {subsection}{\numberline {2.4.8}Chunk Parser}{42}{subsection.2.4.8}
+\contentsline {subsection}{\numberline {2.4.9}Theorem Utilities}{43}{subsection.2.4.9}
+\contentsline {section}{\numberline {2.5}Checking}{44}{section.2.5}
+\contentsline {subsubsection}{Focus Handling}{51}{section*.10}
+\contentsline {section}{\numberline {.1}Utilities}{53}{section.Alph0.1}
+\contentsline {subsubsection}{Maybe and related}{54}{section*.11}
+\contentsline {subsection}{\numberline {.1.1}List and Set Functions}{55}{subsection.Alph0.1.1}
+\contentsline {subsubsection}{Predicate: has duplicates}{55}{section*.12}
+\contentsline {subsubsection}{Pulling Prefix from a List}{55}{section*.13}
+\contentsline {subsubsection}{Un-lining without a trailing newline}{55}{section*.14}
+\contentsline {subsubsection}{Get item from list, or fail trying}{55}{section*.15}
+\contentsline {subsubsection}{List lookup by number}{55}{section*.16}
+\contentsline {subsubsection}{Association-list lookup}{55}{section*.17}
+\contentsline {subsubsection}{Intercalation, dropping nulls}{55}{section*.18}
+\contentsline {subsubsection}{Splitting Lists}{56}{section*.19}
+\contentsline {subsubsection}{`Peeling' a list}{56}{section*.20}
+\contentsline {subsubsection}{Trimming Strings}{56}{section*.21}
+\contentsline {subsubsection}{Number List Display}{56}{section*.22}
+\contentsline {subsubsection}{Argument String Handling}{57}{section*.23}
+\contentsline {subsubsection}{Subsets}{57}{section*.24}
+\contentsline {subsubsection}{Set disjointness}{57}{section*.25}
+\contentsline {subsubsection}{Set overlap}{57}{section*.26}
+\contentsline {subsubsection}{Choosing element from a set}{57}{section*.27}
+\contentsline {subsection}{\numberline {.1.2}Smart Readers}{58}{subsection.Alph0.1.2}
+\contentsline {subsubsection}{Read Integer}{58}{section*.28}
+\contentsline {subsection}{\numberline {.1.3}Control-Flow Functions}{59}{subsection.Alph0.1.3}
+\contentsline {subsubsection}{Repeat Until Equal}{59}{section*.29}
+\contentsline {subsection}{\numberline {.1.4}Pretty-printing Derived Show}{60}{subsection.Alph0.1.4}
+\contentsline {subsubsection}{Pretty-printing Tokens}{60}{section*.30}
+\contentsline {subsubsection}{Useful IO bits and pieces}{60}{section*.31}
+\contentsline {subsubsection}{Parsing Tokens}{62}{section*.32}
+\contentsline {subsubsection}{Displaying Show-Trees}{63}{section*.33}
+\contentsline {subsection}{\numberline {.1.5}Possible Failure Monad}{65}{subsection.Alph0.1.5}
+\contentsline {subsubsection}{Datatype: Yes, But \dots }{65}{section*.34}
+\contentsline {subsubsection}{Instances: Functor, Applicative, Monad}{65}{section*.35}
